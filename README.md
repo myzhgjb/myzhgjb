@@ -7,7 +7,7 @@
 
 <br>
 
-[![个人主页](https://img.shields.io/badge/个人主页-myzhgjb.github.io-1b4f8a?style=for-the-badge&logo=githubpages&logoColor=white)](https://myzhgjb.github.io)
+[![个人主页](https://img.shields.io/badge/个人主页-myzhgjb.github.io-1b4f8a?style=for-the-badge&logo=github&logoColor=white)](https://myzhgjb.github.io)
 [![技术博客](https://img.shields.io/badge/技术博客-博客园-1a7f37?style=for-the-badge&logo=rss&logoColor=white)](https://www.cnblogs.com/myzhgjb)
 
 </div>
