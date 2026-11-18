@@ -8,7 +8,8 @@
 <br>
 
 [![个人主页](https://img.shields.io/badge/个人主页-myzhgjb.github.io-1b4f8a?style=for-the-badge&logo=github&logoColor=white)](https://myzhgjb.github.io)
-[![技术博客](https://img.shields.io/badge/技术博客-博客园-1a7f37?style=for-the-badge&logo=rss&logoColor=white)](https://www.cnblogs.com/myzhgjb)
+[![博客园](https://img.shields.io/badge/博客园-myzhgjb-1a7f37?style=for-the-badge&logo=rss&logoColor=white)](https://www.cnblogs.com/myzhgjb)
+[![CSDN](https://img.shields.io/badge/CSDN-weixin__49573700-fc5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_49573700)
 
 </div>
 
@@ -21,7 +22,7 @@
 | 平台 | 主页 | 定位 |
 | :--- | :--- | :--- |
 | **博客园** | **[cnblogs.com/myzhgjb](https://www.cnblogs.com/myzhgjb)** | 首发 · 长文 · 完整实现细节 |
-| CSDN | *待补* | 同步分发 |
+| **CSDN** | **[blog.csdn.net/weixin_49573700](https://blog.csdn.net/weixin_49573700)** | 同步分发 · 12 篇原创 |
 | 掘金 | *待补* | 同步分发 |
 | 知乎 | *待补* | 同步分发 · 改问句标题 |
 
